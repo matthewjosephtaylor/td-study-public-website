@@ -1,0 +1,6 @@
+battlecry.txt
+hurt.txt
+kill.txt
+miss.txt
+fire.txt
+freeze.txt
